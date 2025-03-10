@@ -1,0 +1,23 @@
+{
+  "name": "git-and-github-basics",
+  "version": "1.0.0",
+  "main": "Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CowMeRun/Git-and-GitHub-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CowMeRun/Git-and-GitHub-Basics/issues"
+  },
+  "homepage": "https://github.com/CowMeRun/Git-and-GitHub-Basics#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
